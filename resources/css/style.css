@@ -2,9 +2,34 @@
 html, body, h1, h2, h3, h4, p, ul, li, div, a{
 	padding: 0;
 	border: 0;
-	margin: 0;
+	margin: 0;										
 	font: inherit;
 	font-size: 100%;
 	text-decoration: none;
 }
 
+/* GENERAL PAGE SETUP*/
+body{
+	font-family: Helvetica, Arial, sans-serif;
+	text-align: center;								
+	margin: 40px 5px 5px 5px;
+}
+
+/* HEADER CONSTRUCTION*/
+header{
+	background-image: url('../images/building.png');
+	margin-bottom: 30px;
+}
+header h1{
+	font-size: 70px;
+	font-weight: bold;
+	color: white;
+	margin-bottom: 20px;
+}
+header nav a{
+	font-size: 18px;
+	color: white;
+}
+header nav li{
+	margin-top: 20px;
+}
