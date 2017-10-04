@@ -53,5 +53,11 @@ header nav li{
 	margin-top: 30px;
 }
 .process{
-	margin-bottom: 30px;
+	margin-bottom: 20px;
+}
+
+/*BREAK LINE SECTION*/
+.break h3{
+	color: white;
+	background-image: url('../images/building.png');
 }
