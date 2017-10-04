@@ -61,3 +61,25 @@ header nav li{
 	color: white;
 	background-image: url('../images/building.png');
 }
+
+/*FOOTER SECTION*/
+footer{
+	background-color: dimgray;
+	color: white;
+	text-align: left;
+	padding-left: 5px;
+}
+footer span{
+	font-size: 11px;
+}
+footer li{
+	margin: 0;
+}
+footer li, footer span, footer ul{
+	display: inline;
+}
+footer a{
+	color: white;
+	font-size: 18px;
+	font-weight: bold;
+}
