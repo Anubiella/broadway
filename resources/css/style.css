@@ -28,6 +28,9 @@ p{
 	color: black;
 	font-size: 14px;
 }
+li{
+	margin-top: 30px;
+}
 
 /* HEADER CONSTRUCTION*/
 header{
@@ -49,10 +52,7 @@ header nav li{
 }
 
 /* PROCESS SECTION*/
-.process li{
-	margin-top: 30px;
-}
-.process{
+#process{
 	margin-bottom: 20px;
 }
 
